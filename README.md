@@ -6,7 +6,7 @@
 + Anaconda
 ## Documentation
 + BA405/505
- + <span style="color:blue"> Installation </span>
+  - <span style="color:blue"> Installation </span>
  
 Python, data, packages
 + BA510
