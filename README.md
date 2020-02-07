@@ -1,4 +1,4 @@
-# balab
+# balab web portal
  [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 ## Platforms
 + JupyterHub
@@ -6,7 +6,7 @@
 + Anaconda
 ## Documentation
 + BA405/505
-
+ + <span style="color:blue"> Installation </span>
 Python, data, packages
 + BA510
 
