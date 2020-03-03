@@ -1,10 +1,19 @@
-# balab web portal
- [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
+# Business Analytics Lab 
+
+[ba-lab.fairfield.edu](ba-lab.fairfield.edu)
+ 
+ ![cover image](/Dolan.png)
+ 
+## About
+ 
 ## Platforms
+
 + JupyterHub
-+ Google colab
++ Google Colab
++ AppStream
 
 ## Documentation
+
 + - <span style="color:blue"> Installation </span>
 + data
 + package
@@ -16,6 +25,7 @@
 + Anaconda
 
 ## Course delivery and management systems
+
 + GitHub
 
 Large file
