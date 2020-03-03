@@ -1,10 +1,10 @@
-# Business Analytics Lab 
+# Business Analytics Lab
 
-[ba-lab.fairfield.edu](ba-lab.fairfield.edu)
+Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
  
  ![cover image](/Dolan.png)
  
-## About
+## Home
  
 ## Platforms
 
