@@ -1,21 +1,12 @@
 # Business Analytics Lab
 
 Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
- 
- ![cover image](/Dolan.png)
- 
+
 ## Home
  
-## Platforms
+## JupyterHub 
 
-+ JupyterHub
-+ Google Colab
-+ AppStream
-
-## Software
-
-The code in the book was tested with Python 3.5, though most (but not all) will also work correctly with Python 2.7 and other older Python versions.
-
+### Python Package
 The packages I used to run the code in the book are listed in [requirements.txt](requirements.txt) (Note that some of these exact version numbers may not be available on your platform: you may have to tweak them for your own use).
 To install the requirements using [conda](http://conda.pydata.org), run the following at the command-line:
 
@@ -31,32 +22,41 @@ $ conda create -n PDSH python=3.5 --file requirements.txt
 
 You can read more about using conda environments in the [Managing Environments](http://conda.pydata.org/docs/using/envs.html) section of the conda documentation.
 
-## Documentation
-
-+ - <span style="color:blue"> Installation </span>
-+ data
-+ package
 + database
-+ R
-+ Tableau
-+ Command line
-+ Markdown
-+ Anaconda
+
+### How can I install R packages?
+
+## Google Colab
+
+## Anaconda?
+
+## AppStream
+
+## Tableau
+
+### Markdown file
+
+### How ro use Google Drive?
++ Set Up Google Drive
++ Upload Files to Google Drive
++ Download Files from Google Drive
 
 ## Course delivery and management systems
 
-+ GitHub
-
-Large file
++ GitHub (Large file?)
 
 + Google Classroom
 
 
 ## Student Example Projects
+## Faculty Help Documentation
++ JupyterHub
++ GitHub
++ Google Classroom
 ## Faculty (research) Projects
 ## Announcements
 ## Resources
 ## Contact information
-+ Ofiice Hour
-+ E-mail
-+ Phone
++ Email
++ Call
++ - <span style="color:blue"> set color </span>
