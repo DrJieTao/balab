@@ -2,9 +2,9 @@
 
 Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 
-## Home
+## Platform
  
-## JupyterHub 
+#### JupyterHub 
 
 + Python Package
 
@@ -25,9 +25,9 @@ You can read more about using conda environments in the [Managing Environments](
 
 + R packages?
 
-## Google Colab
+#### Google Colab
 
-## AppStream
+#### AppStream
 
 
 ## Course delivery and management systems
