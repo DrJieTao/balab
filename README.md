@@ -6,13 +6,14 @@ Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
  
 #### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
 
-#### Google Colab
+#### [Google Colab](http://colab.research.google.com): [![Colab]
+(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
 #### AppStream
 
 ## Course delivery and management systems
 
-#### GitHub (Large file?)
+#### GitHub (Large file)
 + Markdown file
 
 #### Google Classroom /Google Drive?
@@ -22,7 +23,7 @@ Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 
 ## Install on your own computer
 
-#### Anaconda?
+#### Anaconda
 #### Tableau
 
 ## Student Example Projects
