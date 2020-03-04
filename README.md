@@ -4,15 +4,11 @@ Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 
 ## Platform
  
-#### JupyterHub 
-+ Python Package
-
-+ R packages
+#### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
 
 #### Google Colab
 
 #### AppStream
-
 
 ## Course delivery and management systems
 
@@ -25,6 +21,7 @@ Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 + Download Files from Google Drive
 
 ## Install on your own computer
+
 #### Anaconda?
 #### Tableau
 
