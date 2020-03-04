@@ -13,6 +13,9 @@ Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 + Open a Terminal in JupyterLab
 + Installing pip packages
 + Installing conda packages
++ Adding data from your local machine
++ Downloading data from the command line
++ Checking your memory usage
 
 #### [Google Colab](http://colab.research.google.com)  
 
