@@ -5,6 +5,14 @@ Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 ## Platform
  
 #### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
++ Signing in JupyterHub
++ Creatinga new notebook in JupyterLab
++ Deleting 
++ Creating
++ Deleting a new folder in JupyterLab
++ Open a Terminal in JupyterLab
++ Installing pip packages
++ Installing conda packages
 
 #### [Google Colab](http://colab.research.google.com)  
 
