@@ -7,7 +7,6 @@ Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 #### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
 
 #### [Google Colab](http://colab.research.google.com)  
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
 #### AppStream
 
