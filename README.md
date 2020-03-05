@@ -2,17 +2,26 @@
 
 [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 
-## Platform for learning Python, R & Database
+## Platform 
  
 ### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
-Data Input/Output
-Install package
+Cloud platform for  Python, R & Database
++Data Input/Output
++Install package
++Submit homework
 
 ### [Google Colab](http://colab.research.google.com)  
-data input/output
-package
+Cloud platform for Python & R
++Data Input/Output
++Install package
++Submit homework
 
-### [DataCamp](https://www.datacamp.com)
+### [Deepnote](http://www.deepnote.com/)
+Cloud platform for Python
+
+### Tableau
+
+### Anaconda
 
 ## Course delivery and management systems
 
@@ -23,17 +32,16 @@ package
 ### Google Drive/Google Classroom
 + Set Up Google Drive
 + Upload Files to Google Drive
-+ Download Files from Google Drive
++ Download Files from Google Drive### [DataCamp](https://www.datacamp.com)
 
-## Install on your own computer
 
-### Anaconda
-### Tableau
 
 ## Student Example Projects
 ## Faculty (research) Projects
 ## Announcements
 ## Resources
+### [DataCamp](https://www.datacamp.com)
+
 ## Contact information
 + Email
 + Call
