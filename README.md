@@ -3,14 +3,17 @@
 Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 
 ## Platform
+
+For learning Python & R
  
 #### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
-
-For learning Python & R
+Data Input/Output
+Install package
+Submit homework
 
 #### [Google Colab](http://colab.research.google.com)  
-
-For learning Python & R
+data input/output
+package
 
 ## Course delivery and management systems
 
