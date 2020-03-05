@@ -36,13 +36,15 @@ Cloud platform for Python
 + Upload Files to Google Drive
 + Download Files from Google Drive### [DataCamp](https://www.datacamp.com)
 
+## Resources
 
+### [DataCamp](https://www.datacamp.com)
 
 ## Student Example Projects
+
 ## Faculty (research) Projects
+
 ## Announcements
-## Resources
-### [DataCamp](https://www.datacamp.com)
 
 ## Contact information
 + Email
