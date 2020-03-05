@@ -17,7 +17,7 @@ Cloud platform for  Python, R & Database
 ### [Google Colab](http://colab.research.google.com)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc)
 
-Cloud platform for Python & R 
+Cloud platform for Python, R & Database
 + Open learning materials 
 
    Google classroom --> Google Drive --> Colab
@@ -40,7 +40,6 @@ Cloud platform for Python
 + Git commands
 + Markdown files
 
-
 ### Google Drive/Google Classroom
 + Set Up Google Drive
 + Upload Files to Google Drive
@@ -56,6 +55,14 @@ Cloud platform for Python
 
 ## Announcements
 
+## Frequently asked questions
++ JupyterHub
++ Google Colab
++ Deepnote
++ Tableau
++ Anaconda
++ GitHub/GitHub Classroom
++ Google Drive/Google Classroom
 ## Contact information
 + Email
 + Call
