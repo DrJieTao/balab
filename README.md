@@ -11,7 +11,9 @@ Cloud platform for  Python, R & Database
 + Install package
 + Git Terminal/GitHub homework
 
-### [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc)
+### [Google Colab](http://colab.research.google.com)
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc)
 
 Cloud platform for Python & R
 
