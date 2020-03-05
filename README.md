@@ -43,8 +43,6 @@ Cloud platform for Python
 + Upload Files to Google Drive
 + Download Files from Google Drive
 
-### Miscellaneous
-
 ## Resources
 
 ### [DataCamp](https://www.datacamp.com)
