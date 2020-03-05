@@ -1,10 +1,8 @@
-# Business Analytics Lab
+# Business Analytics Page
 
 Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 
-## Platform
-
-For learning Python & R
+## Platform for learning Python, R & Database
  
 #### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
 Data Input/Output
@@ -14,6 +12,8 @@ Submit homework
 #### [Google Colab](http://colab.research.google.com)  
 data input/output
 package
+
+#### DataCamp
 
 ## Course delivery and management systems
 
