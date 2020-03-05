@@ -1,23 +1,22 @@
 # Business Analytics Page
 
-Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
+[ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 
 ## Platform for learning Python, R & Database
  
 ### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
 Data Input/Output
 Install package
-Submit homework
 
 ### [Google Colab](http://colab.research.google.com)  
 data input/output
 package
 
-### DataCamp [DataCamp](https://www.datacamp.com)
+### [DataCamp](https://www.datacamp.com)
 
 ## Course delivery and management systems
 
-### GitHub/GitHub Classroom(Large file)
+### GitHub/GitHub Classroom
 + Git commands
 + Markdown files
 
@@ -32,10 +31,6 @@ package
 ### Tableau
 
 ## Student Example Projects
-## Faculty Help Documentation
-+ JupyterHub(nbgitpuller)
-+ GitHub
-+ Google Classroom
 ## Faculty (research) Projects
 ## Announcements
 ## Resources
