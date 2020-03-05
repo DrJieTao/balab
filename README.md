@@ -6,7 +6,7 @@
 Cloud platform for  Python, R & Database
 + Open learning materials 
     
-    nbgitpuller link --> JupyterHub
+  nbgitpuller link --> JupyterHub
 + Data Input/Output
 + Install packages
 + Submit homework to GitHub classroom 
@@ -19,7 +19,6 @@ Cloud platform for  Python, R & Database
 
 Cloud platform for Python, R & Database
 + Open learning materials 
-
    Google classroom --> Google Drive --> Colab
 + Data Input/Output
 + Install packages
@@ -45,6 +44,8 @@ Cloud platform for Python
 + Upload Files to Google Drive
 + Download Files from Google Drive
 
+### Miscellaneous
+
 ## Resources
 
 ### [DataCamp](https://www.datacamp.com)
@@ -57,12 +58,13 @@ Cloud platform for Python
 
 ## Frequently asked questions
 + JupyterHub
-+ Google Colab
++ Google Colab/Google Drive/Google Classroom
++ GitHub/GitHub Classroom
 + Deepnote
 + Tableau
 + Anaconda
-+ GitHub/GitHub Classroom
-+ Google Drive/Google Classroom
++ Miscellaneous
+
 ## Contact information
 + Email
 + Call
