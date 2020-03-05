@@ -9,14 +9,14 @@ Cloud platform for  Python, R & Database
 
 + Data Input/Output
 + Install package
-+ Submit homework
++ Git Terminal/GitHub homework
 
-### [Google Colab](http://colab.research.google.com)  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+### [Google Colab](http://colab.research.google.com)  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc)
 Cloud platform for Python & R
 
 + Data Input/Output
 + Install package
-+ Submit homework
++ Mount Google Drive/Google classroom homework
 
 ### [Deepnote](http://www.deepnote.com/)
 Cloud platform for Python
