@@ -4,7 +4,7 @@
  
 ### [JupyterHub](https://ba-lab.fairfield.edu)
 Cloud platform for  Python, R & Database
-+ Open study materials 
++ Open learning materials 
     
     nbgitpuller link --> JupyterHub
 + Data Input/Output
@@ -18,7 +18,7 @@ Cloud platform for  Python, R & Database
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc)
 
 Cloud platform for Python & R 
-+ Open study materials 
++ Open learning materials 
 
    Google classroom --> Google Drive --> Colab
 + Data Input/Output
