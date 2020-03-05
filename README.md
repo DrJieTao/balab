@@ -1,10 +1,8 @@
 # Business Analytics Page
 
-[ba-lab.fairfield.edu](ba-lab.fairfield.edu)
-
 ## Platform 
  
-### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
+### [JupyterHub](ba-lab.fairfield.edu)
 Cloud platform for  Python, R & Database
 
 + Data Input/Output
@@ -12,7 +10,9 @@ Cloud platform for  Python, R & Database
 + Git Terminal/GitHub homework
 
 ### [Google Colab](http://colab.research.google.com)
-Cloud platform for Python & R [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc)
+
+Cloud platform for Python & R 
 
 + Data Input/Output
 + Install package
