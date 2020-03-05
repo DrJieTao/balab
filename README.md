@@ -1,8 +1,8 @@
 # Business Analytics Page
 
-## Platform 
+## Platforms
  
-### [JupyterHub](ba-lab.fairfield.edu)
+### [JupyterHub](https://ba-lab.fairfield.edu)
 Cloud platform for  Python, R & Database
 
 + Data Input/Output
