@@ -7,16 +7,16 @@
 ### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
 Cloud platform for  Python, R & Database
 
-+Data Input/Output
-+Install package
-+Submit homework
++ Data Input/Output
++ Install package
++ Submit homework
 
-### [Google Colab](http://colab.research.google.com)  
+### [Google Colab](http://colab.research.google.com)  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 Cloud platform for Python & R
 
-+Data Input/Output
-+Install package
-+Submit homework
++ Data Input/Output
++ Install package
++ Submit homework
 
 ### [Deepnote](http://www.deepnote.com/)
 Cloud platform for Python
