@@ -32,6 +32,8 @@ Cloud platform for Python
 
 ### Anaconda
 
+### Tableau
+
 ## Course delivery and management systems
 
 ### GitHub/GitHub Classroom
@@ -59,6 +61,7 @@ Cloud platform for Python
 + GitHub/GitHub Classroom
 + Deepnote
 + Anaconda
++ Tableau
 + Miscellaneous
 
 ## Contact information
