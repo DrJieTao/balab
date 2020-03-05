@@ -4,32 +4,32 @@ Business Analytics is ... [ba-lab.fairfield.edu](ba-lab.fairfield.edu)
 
 ## Platform for learning Python, R & Database
  
-#### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
+### [JupyterHub](https://github.com/ypff/balab/blob/master/JupyterHub.md)
 Data Input/Output
 Install package
 Submit homework
 
-#### [Google Colab](http://colab.research.google.com)  
+### [Google Colab](http://colab.research.google.com)  
 data input/output
 package
 
-#### DataCamp
+### DataCamp
 
 ## Course delivery and management systems
 
-#### GitHub/GitHub Classroom(Large file)
+### GitHub/GitHub Classroom(Large file)
 + Git commands
 + Markdown files
 
-#### Google Drive/Google Classroom
+### Google Drive/Google Classroom
 + Set Up Google Drive
 + Upload Files to Google Drive
 + Download Files from Google Drive
 
 ## Install on your own computer
 
-#### Anaconda
-#### Tableau
+### Anaconda
+### Tableau
 
 ## Student Example Projects
 ## Faculty Help Documentation
