@@ -19,6 +19,7 @@ Cloud platform for  Python, R & Database
 
 Cloud platform for Python, R & Database
 + Open learning materials 
+   
    Google classroom --> Google Drive --> Colab
 + Data Input/Output
 + Install packages
@@ -28,8 +29,6 @@ Cloud platform for Python, R & Database
 
 ### [Deepnote](http://www.deepnote.com/)
 Cloud platform for Python
-
-### Tableau
 
 ### Anaconda
 
@@ -61,7 +60,6 @@ Cloud platform for Python
 + Google Colab/Google Drive/Google Classroom
 + GitHub/GitHub Classroom
 + Deepnote
-+ Tableau
 + Anaconda
 + Miscellaneous
 
