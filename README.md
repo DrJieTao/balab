@@ -34,7 +34,7 @@ Cloud platform for Python
 ### Google Drive/Google Classroom
 + Set Up Google Drive
 + Upload Files to Google Drive
-+ Download Files from Google Drive### [DataCamp](https://www.datacamp.com)
++ Download Files from Google Drive
 
 ## Resources
 
